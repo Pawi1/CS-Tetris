@@ -1,2 +1,1 @@
-# CS-Tetris
-Gra Tetris napisane w C#
+# C#-Tetris
