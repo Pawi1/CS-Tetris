@@ -1,0 +1,15 @@
+/home/pawil/repos/CS-Tetris/bin/Debug/net7.0/CS-Tetris
+/home/pawil/repos/CS-Tetris/bin/Debug/net7.0/CS-Tetris.deps.json
+/home/pawil/repos/CS-Tetris/bin/Debug/net7.0/CS-Tetris.runtimeconfig.json
+/home/pawil/repos/CS-Tetris/bin/Debug/net7.0/CS-Tetris.dll
+/home/pawil/repos/CS-Tetris/bin/Debug/net7.0/CS-Tetris.pdb
+/home/pawil/repos/CS-Tetris/obj/Debug/net7.0/CS-Tetris.csproj.AssemblyReference.cache
+/home/pawil/repos/CS-Tetris/obj/Debug/net7.0/CS-Tetris.GeneratedMSBuildEditorConfig.editorconfig
+/home/pawil/repos/CS-Tetris/obj/Debug/net7.0/CS-Tetris.AssemblyInfoInputs.cache
+/home/pawil/repos/CS-Tetris/obj/Debug/net7.0/CS-Tetris.AssemblyInfo.cs
+/home/pawil/repos/CS-Tetris/obj/Debug/net7.0/CS-Tetris.csproj.CoreCompileInputs.cache
+/home/pawil/repos/CS-Tetris/obj/Debug/net7.0/CS-Tetris.dll
+/home/pawil/repos/CS-Tetris/obj/Debug/net7.0/refint/CS-Tetris.dll
+/home/pawil/repos/CS-Tetris/obj/Debug/net7.0/CS-Tetris.pdb
+/home/pawil/repos/CS-Tetris/obj/Debug/net7.0/CS-Tetris.genruntimeconfig.cache
+/home/pawil/repos/CS-Tetris/obj/Debug/net7.0/ref/CS-Tetris.dll
